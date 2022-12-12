@@ -74,8 +74,14 @@
     <Content Include="image\all-20220105.jpg" />
     <Content Include="image\B1-20210802.jpg" />
     <Content Include="image\background.jfif" />
+    <Content Include="image\bg_home_fastorder_desktop.png" />
+    <Content Include="image\footer_logo.png" />
     <Content Include="image\half.png" />
+    <Content Include="image\icon_footer_facebook.svg" />
+    <Content Include="image\icon_footer_ig.svg" />
+    <Content Include="image\icon_footer_line.svg" />
     <Content Include="image\icon_logo_l.svg" />
+    <Content Include="image\icon_logo_s.svg" />
     <Content Include="image\logo.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
