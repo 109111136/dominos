@@ -23,7 +23,7 @@
                 <a class="navitem" href="home.aspx">快速訂餐</a>
             </nav>
         </header>
-        <div class="main">
+        <main class="main">
             <div class="section">
                     <asp:Button ID="Button1" runat="server" Text="外帶" Height="50px" Width="200px" BackColor="#0066FF" ForeColor="White" Font-Size="Large" BorderColor="#0066FF" />
                     <asp:Button ID="Button2" runat="server" Text="外送" Height="50px" Width="200px" BackColor="Red" ForeColor="White" Font-Size="Large" BorderColor="Red" />
@@ -80,7 +80,7 @@
                     <div class="fastorder">
                         <img class="fastorder-img" src="image/bg_home_fastorder_desktop.png" />
                     </div>
-        </div>
+        </main>
         <footer class="footer">
             <div class="container2">
                 <div class="footer-row">
