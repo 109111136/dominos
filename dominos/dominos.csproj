@@ -87,6 +87,7 @@
     </Content>
     <Content Include="image\W10-20221205.png" />
     <Content Include="image\XMAS-20221205.png" />
+    <Content Include="menu.aspx" />
     <Content Include="style.css" />
     <Content Include="take out.aspx" />
     <Content Include="Web.config" />
@@ -108,6 +109,13 @@
     </Compile>
     <Compile Include="home.aspx.designer.cs">
       <DependentUpon>home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="menu.aspx.cs">
+      <DependentUpon>menu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="menu.aspx.designer.cs">
+      <DependentUpon>menu.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="take out.aspx.cs">

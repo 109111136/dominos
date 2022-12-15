@@ -1,6 +1,7 @@
 body {
     margin: 0;
     position: relative;
+    
 }
 header {
     width: 100%;
@@ -33,9 +34,8 @@ nav {
     background-color: white;
     background-image: url(image/background.jfif);
     width: 100%;
-    padding-top:94px;
-    padding-bottom:48px;
-    
+    padding-top: 94px;
+    padding-bottom: 48px;
 }
 .section {
     margin-left: 94px;
@@ -200,4 +200,35 @@ nav {
     position: absolute;
     top: 40%;
     left: 60%;
+}
+/* menu */
+.menu-nav {
+    height: 72px;
+    width: 100%;
+}
+.menu-container {
+    margin-left: 94px;
+    margin-right: 94px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 72px;
+}
+.menu-nav-tabs {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    height: 72px;
+    font-size: 1rem;
+}
+.menu-nav-item {
+    flex-basis: 0;
+    flex-grow:1;
+    text-align:center;
+    list-style:none;
+}
+.menu-nav-font {
+    padding: 22px;
+    color: #006cac;
+    font-weight: 600;
+    text-decoration: none;
 }
