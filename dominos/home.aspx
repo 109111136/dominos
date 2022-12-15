@@ -25,8 +25,8 @@
         </header>
         <main class="main">
             <div class="section">
-                    <asp:Button ID="Button1" runat="server" Text="外帶" Height="50px" Width="200px" BackColor="#0066FF" ForeColor="White" Font-Size="Large" BorderColor="#0066FF" />
-                    <asp:Button ID="Button2" runat="server" Text="外送" Height="50px" Width="200px" BackColor="Red" ForeColor="White" Font-Size="Large" BorderColor="Red" />
+                    <asp:Button ID="carryout" runat="server" Text="外帶" Height="50px" Width="200px" BackColor="#0066FF" ForeColor="White" Font-Size="Large" BorderColor="#0066FF" PostBackUrl="~/take out.aspx" />
+                    <asp:Button ID="delivery" runat="server" Text="外送" Height="50px" Width="200px" BackColor="Red" ForeColor="White" Font-Size="Large" BorderColor="Red" PostBackUrl="~/delivery.aspx" />
             </div>
 
             <div class="swiper mySwiper">

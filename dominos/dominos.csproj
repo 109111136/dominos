@@ -68,7 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
-    <Content Include="half price.aspx" />
+    <Content Include="delivery.aspx" />
     <Content Include="home.aspx" />
     <Content Include="image\855.png" />
     <Content Include="image\all-20220105.jpg" />
@@ -95,12 +95,12 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="half price.aspx.cs">
-      <DependentUpon>half price.aspx</DependentUpon>
+    <Compile Include="delivery.aspx.cs">
+      <DependentUpon>delivery.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="half price.aspx.designer.cs">
-      <DependentUpon>half price.aspx</DependentUpon>
+    <Compile Include="delivery.aspx.designer.cs">
+      <DependentUpon>delivery.aspx</DependentUpon>
     </Compile>
     <Compile Include="home.aspx.cs">
       <DependentUpon>home.aspx</DependentUpon>

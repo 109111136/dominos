@@ -187,7 +187,7 @@ nav {
         object-fit: cover;
     }
 /* carry out */
-.carry-contect {
+.carry-contect,.delivery  {
     background-color:white;
     margin-left:30%;
 }
