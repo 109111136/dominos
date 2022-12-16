@@ -12,11 +12,9 @@
 <body>
     <form id="form1" runat="server">
         <header class="header">
-            <div class="container1">
                 <a class="logo" href="home.aspx">
                     <img src="image/icon_logo_l.svg" />
                 </a>
-            </div>
             <nav>
                 <a class="navitem" href="menu.aspx">美味菜單</a>
                 <a class="navitem" href="home.aspx">會員登入 | 加入</a>
@@ -64,9 +62,9 @@
                     <img class="section2-img" src="image/all-20220105.jpg" />
                 </asp:LinkButton>
             </div>
-            <div style="text-align:center;"><h2>公告</h2></div>
+            <div style="text-align:center;"><h2>公告</h2>
             
-                <div class="announcement">
+                
                     <div class="font">‧ 親愛的顧客您好，即日起不主動提供餐巾紙、胡椒包、辣椒包，如有需求，請主動向門市人員索取，謝謝您。
                         2022-02-21</div><br />
                     <div class="font">‧ 部分門市蜜汁章魚配料缺貨，將會以花枝替代，影響披薩口味有:超級老饕四喜、嚴選四喜，造成不便，敬請見諒!
@@ -76,11 +74,11 @@
                     <div class="font">‧ 因牽絲起司棒缺貨，部分門市暫停販售。
                         2022-12-08</div><br />
                 </div>
-                <div style="text-align:center;"><h2>歡樂聚餐 盡在達美樂</h2></div>
-                    <div class="fastorder">
-                        <img class="fastorder-img" src="image/bg_home_fastorder_desktop.png" />
-                    </div>
+                <div style="text-align:center;"><h2>歡樂聚餐 盡在達美樂</h2>
+                        <img class="fastorder-img" src="image/bg_home_fastorder_desktop.png"  />
+                </div>
         </main>
+        
         <footer class="footer">
             <div class="container2">
                 <div class="footer-row">
