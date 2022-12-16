@@ -87,7 +87,7 @@ nav {
     height: 275px;
     width: 100%;
     padding-top: 50px;
-    padding-left: 50px;
+    padding-left: 15%;
     padding-right: 50px;
     display: flex;
     
@@ -108,16 +108,14 @@ nav {
 .footer-img {
     padding-left: 15px;
     padding-right: 15px;
-    height:211px;
-    width:301px;
-    text-align:center;
+    height: 100%;
+    width: 100%;
+    text-align: center;
 }
 .footer-row2 {
     display: flex;
     flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
-    width:640px;
+    margin-left: 10%;
 }
 .footer-col {
     flex-basis: 0;
@@ -205,6 +203,8 @@ nav {
 .menu-nav {
     height: 72px;
     width: 100%;
+    background-color: white;
+    margin-top: -19px;
 }
 .menu-container {
     margin-left: 94px;
