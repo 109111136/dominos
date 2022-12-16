@@ -10,17 +10,14 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <header>
-            <div class="container1">
-                <a class="logo" href="home.aspx">
-                    <img src="image/icon_logo_l.svg" />
-                </a>
-            </div>
+        <header class="header">
+            <a class="logo" href="home.aspx">
+                <img src="image/icon_logo_l.svg" />
+            </a>
             <nav>
-                <a class="navitem" href="home.aspx">美味菜單</a>
+                <a class="navitem" href="menu.aspx">美味菜單</a>
                 <a class="navitem" href="home.aspx">會員登入 | 加入</a>
                 <a class="navitem" href="home.aspx">快速訂餐</a>
-
             </nav>
         </header>
         <main class="main">

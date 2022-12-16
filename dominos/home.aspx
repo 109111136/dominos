@@ -91,7 +91,7 @@
             </div>
             <div style="text-align: center;">
                 <h2>歡樂聚餐 盡在達美樂</h2>
-                <img class="fastorder-img" src="image/bg_home_fastorder_desktop.png" />
+                <img src="image/bg_home_fastorder_desktop.png"class="footer-img" />
             </div>
         </main>
 
