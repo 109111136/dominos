@@ -67,6 +67,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\brand\bootstrap-logo-white.svg" />
+    <Content Include="assets\brand\bootstrap-logo.svg" />
+    <Content Include="assets\dist\css\bootstrap.min.css" />
+    <Content Include="assets\dist\css\bootstrap.rtl.min.css" />
+    <Content Include="assets\dist\js\bootstrap.bundle.min.js" />
     <Content Include="Global.asax" />
     <Content Include="delivery.aspx" />
     <Content Include="home.aspx" />
@@ -127,6 +132,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\dist\css\bootstrap.min.css.map" />
+    <Content Include="assets\dist\css\bootstrap.rtl.min.css.map" />
+    <Content Include="assets\dist\js\bootstrap.bundle.min.js.map" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

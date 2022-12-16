@@ -27,7 +27,7 @@
                     <asp:Button ID="delivery" runat="server" Text="外送" Height="50px" Width="200px" BackColor="Red" ForeColor="White" Font-Size="Large" BorderColor="Red" PostBackUrl="~/delivery.aspx" />
             </div>
 
-            <div class="swiper mySwiper">
+            <div class="swiper  mySwiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                             <asp:LinkButton ID="LinkButton1" runat="server">
