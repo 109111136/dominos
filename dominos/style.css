@@ -57,17 +57,14 @@ nav {
     padding: 15px;
 }
 
-.font {
+.announcement {
     height: 76px;
     border-bottom-color: gray;
     border-bottom-style: solid;
-    width:70%;
-    margin-left:15%;
-    text-align:left;
-}
-
-.fastorder-img {
-    height: 334px;
+    width: 70%;
+    margin-left: 15%;
+    text-align: left;
+    font-weight: 600;
 }
 
 .footer {
@@ -222,6 +219,7 @@ nav {
     flex-grow: 1;
     text-align: center;
     list-style: none;
+    margin-top: 3%;
 }
 
 .menu-nav-font {
@@ -230,3 +228,4 @@ nav {
     font-weight: 600;
     text-decoration: none;
 }
+

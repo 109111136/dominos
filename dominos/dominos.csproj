@@ -93,6 +93,7 @@
     <Content Include="image\W10-20221205.png" />
     <Content Include="image\XMAS-20221205.png" />
     <Content Include="menu.aspx" />
+    <Content Include="menu.css" />
     <Content Include="style.css" />
     <Content Include="take out.aspx" />
     <Content Include="Web.config" />
