@@ -137,12 +137,12 @@
     <Content Include="assets\dist\css\bootstrap.rtl.min.css.map" />
     <Content Include="assets\dist\js\bootstrap.bundle.min.js.map" />
     <None Include="packages.config" />
-    <Content Include="xiandev.config" />
-    <Content Include="xiandev.Debug.config">
-      <DependentUpon>xiandev.config</DependentUpon>
+    <Content Include="Web.config.xiandev.config" />
+    <Content Include="Web.config.xiandev.Debug.config">
+      <DependentUpon>Web.config.xiandev.config</DependentUpon>
     </Content>
-    <Content Include="xiandev.Release.config">
-      <DependentUpon>xiandev.config</DependentUpon>
+    <Content Include="Web.config.xiandev.Release.config">
+      <DependentUpon>Web.config.xiandev.config</DependentUpon>
     </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
