@@ -8,6 +8,7 @@ header {
     position: fixed;
     display: flex;
     justify-content: space-between;
+    z-index:5;
 }
 logo:link {
     width: 100%;
@@ -226,4 +227,7 @@ nav {
     font-weight: 600;
     text-decoration: none;
 }
-
+a:hover {
+    color: dodgerblue;
+    text-decoration: underline;
+}

@@ -75,6 +75,8 @@
     <Content Include="Global.asax" />
     <Content Include="delivery.aspx" />
     <Content Include="home.aspx" />
+    <Content Include="image\555-20221027.jpg" />
+    <Content Include="image\855-20221027.jpg" />
     <Content Include="image\855.png" />
     <Content Include="image\all-20220105.jpg" />
     <Content Include="image\B1-20210802.jpg" />
@@ -82,6 +84,8 @@
     <Content Include="image\bg_home_fastorder_desktop.png" />
     <Content Include="image\footer_logo.png" />
     <Content Include="image\half.png" />
+    <Content Include="image\HLP-20220513.jpg" />
+    <Content Include="image\HSP-20220513.jpg" />
     <Content Include="image\icon_footer_facebook.svg" />
     <Content Include="image\icon_footer_ig.svg" />
     <Content Include="image\icon_footer_line.svg" />
@@ -90,7 +94,12 @@
     <Content Include="image\logo.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="image\ONL6-20221010.jpg" />
     <Content Include="image\W10-20221205.png" />
+    <Content Include="image\W10CC-20221116.jpg" />
+    <Content Include="image\W10CD-20221116.jpg" />
+    <Content Include="image\W10LL-20221130.jpg" />
+    <Content Include="image\W10LS-20221130.jpg" />
     <Content Include="image\XMAS-20221205.png" />
     <Content Include="menu.aspx" />
     <Content Include="menu.css" />
