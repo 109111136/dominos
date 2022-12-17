@@ -28,7 +28,7 @@
                 <asp:DropDownList ID="dpl_city" runat="server" Width="150px" Height="60px" Font-Size="30px" AutoPostBack="True" OnSelectedIndexChanged="dpl_city_SelectedIndexChanged"></asp:DropDownList>
                 <asp:DropDownList ID="dpl_area" runat="server" Width="150px" Height="60px" Font-Size="30px" AutoPostBack="True" OnSelectedIndexChanged="dpl_area_SelectedIndexChanged"></asp:DropDownList>
                 <asp:DropDownList ID="dpl_shop" runat="server" Width="200px" Height="60px" Font-Size="30px"></asp:DropDownList>
-                <asp:LinkButton ID="LinkButton1" runat="server" CssClass="btn" ForeColor="White" Height="44px" Width="122px" BackColor="#006CAC" Font-Size="25px">選擇門市</asp:LinkButton>
+                <asp:LinkButton ID="LinkButton1" runat="server" CssClass="btn" ForeColor="White" Height="44px" Width="122px" BackColor="#006CAC" Font-Size="25px" PostBackUrl="~/menu.aspx">選擇門市</asp:LinkButton>
 
             </asp:Panel>
         </main>
