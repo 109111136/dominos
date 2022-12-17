@@ -362,5 +362,5 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-#Remove git moniton web.config
-web.config
+#Remove git moniton Web.config
+Web.config
