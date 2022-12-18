@@ -188,6 +188,13 @@
     <Content Include="Web.config.xiandev.Release.config">
       <DependentUpon>Web.config.xiandev.config</DependentUpon>
     </Content>
+    <None Include="Web.config.nightleopard.config" />
+    <None Include="Web.config.nightleopard.Debug.config">
+      <DependentUpon>Web.config.nightleopard.config</DependentUpon>
+    </None>
+    <None Include="Web.config.nightleopard.Release.config">
+      <DependentUpon>Web.config.nightleopard.config</DependentUpon>
+    </None>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
