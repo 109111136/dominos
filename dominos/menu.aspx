@@ -57,6 +57,8 @@
                                             ．香烤雞條15條<br />
                                             ．蒜香起司球(原味)1份
                                         </p>
+                                        <asp:DropDownList ID="dpl_pizza" runat="server" Height="20px" Width="120px" AutoPostBack="True"></asp:DropDownList>
+                                        <asp:DropDownList ID="dpl_crust" runat="server" Height="20px" Width="120px" Visible="False"></asp:DropDownList>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
