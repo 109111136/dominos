@@ -16,7 +16,7 @@
             </a>
             <nav>
                 <a class="navitem" href="menu.aspx">美味菜單</a>
-                <a class="navitem" href="home.aspx">會員登入 | 加入</a>
+                <a class="navitem" href="checkout.aspx">會員登入 | 加入</a>
                 <a class="navitem" href="home.aspx">快速訂餐</a>
             </nav>
         </header>
