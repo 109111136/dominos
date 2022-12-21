@@ -204,6 +204,7 @@
     <Content Include="Web.config.xiandev.Release.config">
       <DependentUpon>Web.config.xiandev.config</DependentUpon>
     </Content>
+    <Content Include="test.bak" />
     <None Include="Web.config.kuory" />
     <None Include="Web.config.Debug.kuory">
       <DependentUpon>Web.config.kuory</DependentUpon>
