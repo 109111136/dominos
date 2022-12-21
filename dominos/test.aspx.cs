@@ -7,12 +7,10 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using static System.Net.Mime.MediaTypeNames;
-using System.Runtime.Remoting.Contexts;
 
 namespace dominos
 {
-    public partial class checkout : System.Web.UI.Page
+    public partial class test : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -24,7 +22,6 @@ namespace dominos
                 SqlDataAdapter o_A = new SqlDataAdapter("Select * from Users", o_Conn);
                 DataSet o_D = new DataSet();
                 o_A.Fill(o_D, "ds_Res");
-                gd_View.DataSource = o_D;
                 gd_View.DataBind();
 
                 SqlCommand o_a = new SqlCommand("Insert into Users (Name, Birthday)" +
@@ -38,7 +35,7 @@ namespace dominos
 
                 o_Conn.Close();
             }
-            catch(Exception o_Exc)
+            catch (Exception o_Exc)
             {
                 Response.Write(o_Exc.ToString());
             }

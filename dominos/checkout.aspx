@@ -23,6 +23,8 @@
         <main class="main">
             <div style="text-align: center;">
                 <h2>會員登入</h2><br />
+                                <asp:GridView ID="gd_View" runat="server"></asp:GridView>
+
                 帳號:
                 <asp:TextBox ID="s_account" runat="server"></asp:TextBox><br />
                 密碼:
