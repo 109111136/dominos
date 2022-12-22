@@ -186,29 +186,6 @@
                                 <div class="card shadow-sm">
                                     <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                                         <rect width="100%" height="100%" fill="black" />
-                                        <image xlink:href="image/ONL6-20221010.jpg" x="0" y="0" height="100%" width="100%" />
-                                    </svg>
-
-                                    <div class="card-body">
-                                        <p class="card-text">
-                                            單點:6吋個人披薩<br />
-                                            ．單點原價6吋個人披薩<br />
-                                            <br />
-                                            <br />
-                                            <br />
-                                        </p>
-                                        <div class="d-flex justify-content-between align-items-center">
-                                            <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="card shadow-sm">
-                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-                                        <rect width="100%" height="100%" fill="black" />
                                         <image xlink:href="image/855-20221027.jpg" x="0" y="0" height="100%" width="100%" />
                                     </svg>
                                     <div class="card-body">
@@ -264,29 +241,6 @@
                                         <p class="card-text">
                                             外送買大送小<br />
                                             ．外送買大披薩送小披薩<br />
-                                            <br />
-                                            <br />
-                                            <br />
-                                        </p>
-                                        <div class="d-flex justify-content-between align-items-center">
-                                            <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="card shadow-sm">
-                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-                                        <rect width="100%" height="100%" fill="black" />
-                                        <image xlink:href="image/IDSP-20221010.jpg" x="0" y="0" height="100%" width="100%" />
-                                    </svg>
-
-                                    <div class="card-body">
-                                        <p class="card-text">
-                                            單點義大利麵<br />
-                                            ．單點：義大利麵1份<br />
                                             <br />
                                             <br />
                                             <br />
@@ -368,7 +322,6 @@
                                             照燒醬、披薩醬、蜜汁醬、洋蔥、青椒、紅椒、蘑菇、日式龍蝦沙拉、蜜汁章魚、火腿、香腸片、香腸丁、壽喜牛肉、海苔粉、美奶滋<br />
                                             <br />
                                             <br />
-
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
@@ -492,7 +445,7 @@
                                             經典四喜<br />
                                             <br />
                                             洋蔥、青椒、青花菜、玉米、鳳梨、墨西哥辣椒、蘑菇、花枝、蝦仁、蟹味條、火腿、香腸片、香腸丁<br />
-                                            <br />
+                                            <br /><br />
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
@@ -518,7 +471,7 @@
                                             <br />
                                             洋蔥、青花菜、紅椒、玉米、鳳梨、蘑菇、火腿、香腸片、香腸丁<br />
                                             <br />
-                                            <br />
+                                            <br /><br />
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
@@ -609,7 +562,7 @@
                                     <div class="card-body">
                                         <p class="card-text">
                                             照燒海鮮<br />
-                                            洋蔥、紅椒、花枝、蝦仁、蟹味條、海苔粉、美奶滋
+                                            洋蔥、紅椒、花枝、蝦仁、蟹味條、海苔粉、美奶滋<br /><br />
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
@@ -633,6 +586,7 @@
                                         <p class="card-text">
                                             海鮮<br />
                                             洋蔥、青花菜、花枝、蝦仁、蟹味條<br />
+                                            <br />
                                             <br />
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
@@ -810,7 +764,7 @@
                                     <div class="card-body">
                                         <p class="card-text">
                                             黃金海鮮<br />
-                                            洋蔥、青花菜、花枝、蝦仁、蟹味條、巧達起司丁、莫札瑞拉起司條
+                                            洋蔥、青花菜、花枝、蝦仁、蟹味條、巧達起司丁、莫札瑞拉起司條<br /><br />
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
@@ -994,8 +948,11 @@
                                     </svg>
                                     <div class="card-body">
                                         <p class="card-text">
-                                            手拍<br /><br />
-                                            達美樂獨家手作拍製餅皮，全新配方升級，鬆軟口感，少油少負擔，絕對值得您一試品嚐！<br /><br /><br />
+                                            手拍<br />
+                                            <br />
+                                            達美樂獨家手作拍製餅皮，全新配方升級，鬆軟口感，少油少負擔，絕對值得您一試品嚐！<br />
+                                            <br />
+                                            <br />
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
@@ -1012,8 +969,11 @@
                                     </svg>
                                     <div class="card-body">
                                         <p class="card-text">
-                                            薄脆<br /><br />
-                                            口感如餅乾般香脆可口，經高溫烘烤夾帶淡淡焦香，是小朋友的最愛。<br /><br /><br />
+                                            薄脆<br />
+                                            <br />
+                                            口感如餅乾般香脆可口，經高溫烘烤夾帶淡淡焦香，是小朋友的最愛。<br />
+                                            <br />
+                                            <br />
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
@@ -1031,7 +991,8 @@
                                     </svg>
                                     <div class="card-body">
                                         <p class="card-text">
-                                            雙層薄脆吉心<br /><br />
+                                            雙層薄脆吉心<br />
+                                            <br />
                                             雙層薄脆餅皮中間夾香濃乳狀起司（薄脆餅皮口感類似餅乾，餅皮中間夾了香濃乳狀起司，非一般手拍餅皮）。
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
@@ -1068,7 +1029,350 @@
 
 
                 <div class="tab-content-4">
-                    <p>頁面3顯示的內容</p>
+                    <div class="container">
+
+                        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/178LG-20221201.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            轟炸雞腿3支
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$198</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/198FN-20210725.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            轟炸無骨雞腿排3塊
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$209</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/168LE-20210707.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            普羅旺斯烤雞腿排3塊
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$180</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/WG-20110101.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            烤雞翅8塊
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$229</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/12F-20160222.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            鱈魚星星12塊
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$180</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/PUS-20180530.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            PUFF香腸6條
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$180</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/255NO-20220119.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            如意拼盤<br />
+                                            <br />
+                                            ．香酥千層棒3條<br />
+                                            ．香烤薯製品半份(可選：香烤薯球、地瓜薯條)<br />
+                                            ．PUFF腸3個<br />
+                                            ．烤翅4塊
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$239</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/510NO-20220119.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            四喜拼盤<br />
+                                            <br />
+                                            ．巴掌麵包<br />
+                                            ．香烤薯製品一份(可選：香烤薯球、地瓜薯條)<br />
+                                            ．PUFF腸6個<br />
+                                            ．烤翅8塊
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$469</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/GCF-20220926.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            香烤雞條15條<br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$209</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/GCB-20220926.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            蒜香起司球
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$69</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/PS-20110714.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            香酥千層棒6條
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$49</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/CN-20110101.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            香蒜巴掌麵包
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$49</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/EGT-20220331.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            葡式蛋塔
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$45</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/TPO-20220107.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            香烤薯製品
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$59</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/S-20110101.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            玉米濃湯
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$40</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/1.25-20110101.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            1.25L可樂
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$40</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card shadow-sm">
+                                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                                        <rect width="100%" height="100%" fill="black" />
+                                        <image xlink:href="image/CAN-20110101.jpg" x="0" y="0" height="100%" width="100%" />
+                                    </svg>
+                                    <div class="card-body">
+                                        <p class="card-text">
+                                            罐裝可樂
+                                        </p>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div class="btn-group">
+                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                            </div>
+                                            <small class="text-muted">$20</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 

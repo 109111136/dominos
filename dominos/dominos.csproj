@@ -77,11 +77,18 @@
     <Content Include="delivery.aspx" />
     <Content Include="home.aspx" />
     <Content Include="image\--20150101.jpg" />
+    <Content Include="image\1.25-20110101.jpg" />
+    <Content Include="image\12F-20160222.jpg" />
+    <Content Include="image\168LE-20210707.jpg" />
+    <Content Include="image\178LG-20221201.jpg" />
+    <Content Include="image\198FN-20210725.jpg" />
+    <Content Include="image\255NO-20220119.jpg" />
     <Content Include="image\4AC-20220331.jpg" />
     <Content Include="image\4FFN-20221128.jpg" />
     <Content Include="image\4GO-20220331.jpg" />
     <Content Include="image\4LU-20221114.jpg" />
     <Content Include="image\4SL-20220331.jpg" />
+    <Content Include="image\510NO-20220119.jpg" />
     <Content Include="image\555-20221027.jpg" />
     <Content Include="image\855-20221027.jpg" />
     <Content Include="image\855.png" />
@@ -91,9 +98,15 @@
     <Content Include="image\background.jfif" />
     <Content Include="image\bg_home_fastorder_desktop.png" />
     <Content Include="image\C-20110101.jpg" />
+    <Content Include="image\CAN-20110101.jpg" />
     <Content Include="image\CBQ-20110101.jpg" />
+    <Content Include="image\CCC-20220331.jpg" />
+    <Content Include="image\CN-20110101.jpg" />
     <Content Include="image\DPHW-20210510.jpg" />
+    <Content Include="image\EGT-20220331.jpg" />
     <Content Include="image\footer_logo.png" />
+    <Content Include="image\GCB-20220926.jpg" />
+    <Content Include="image\GCF-20220926.jpg" />
     <Content Include="image\GHW-20191202.jpg" />
     <Content Include="image\GLB-20191202.jpg" />
     <Content Include="image\GLSP-20210419.jpg" />
@@ -116,6 +129,9 @@
     </Content>
     <Content Include="image\LSP-20110101.jpg" />
     <Content Include="image\ONL6-20221010.jpg" />
+    <Content Include="image\PS-20110714.jpg" />
+    <Content Include="image\PUS-20180530.jpg" />
+    <Content Include="image\S-20110101.jpg" />
     <Content Include="image\S4-20191202.jpg" />
     <Content Include="image\SDX-20110101.jpg" />
     <Content Include="image\SEA-20171211.jpg" />
@@ -123,6 +139,7 @@
     <Content Include="image\SMX-20110101.jpg" />
     <Content Include="image\T-20110101.jpg" />
     <Content Include="image\TBEEF-20140324.jpg" />
+    <Content Include="image\TPO-20220107.jpg" />
     <Content Include="image\TVGR-20191202.jpg" />
     <Content Include="image\USA-20110101.jpg" />
     <Content Include="image\V4-20171211.jpg" />
@@ -132,11 +149,13 @@
     <Content Include="image\W10CD-20221116.jpg" />
     <Content Include="image\W10LL-20221130.jpg" />
     <Content Include="image\W10LS-20221130.jpg" />
+    <Content Include="image\WG-20110101.jpg" />
     <Content Include="image\WVEG-20191202.jpg" />
     <Content Include="image\XMAS-20221205.png" />
     <Content Include="image\XX-20140905.jpg" />
     <Content Include="image\Y4-20191202.jpg" />
     <Content Include="image\YSEA-20181210.jpg" />
+    <Content Include="list.aspx" />
     <Content Include="menu.aspx" />
     <Content Include="menu.css" />
     <Content Include="style.css" />
@@ -168,6 +187,13 @@
     </Compile>
     <Compile Include="home.aspx.designer.cs">
       <DependentUpon>home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="list.aspx.cs">
+      <DependentUpon>list.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="list.aspx.designer.cs">
+      <DependentUpon>list.aspx</DependentUpon>
     </Compile>
     <Compile Include="menu.aspx.cs">
       <DependentUpon>menu.aspx</DependentUpon>
