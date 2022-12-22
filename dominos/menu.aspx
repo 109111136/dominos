@@ -80,7 +80,7 @@
                                             聖誕跨年B套餐【外帶】<br />
                                             ．世界10大起司四喜大披薩1個<br />
                                             ．手拍大披薩1個<br />
-                                            ．辣味轟炸機腿5支<br />
+                                            ．辣味轟炸雞腿5支<br />
                                             <br />
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
