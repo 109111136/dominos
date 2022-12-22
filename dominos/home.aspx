@@ -30,22 +30,22 @@
             <div class="swiper  mySwiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <asp:LinkButton ID="LinkButton1" runat="server">
+                        <asp:LinkButton ID="LinkButton1" runat="server" Width="100%">
                                 <img class="swiper-slide img" src="image/W10-20221205.png" />
                         </asp:LinkButton>
                     </div>
                     <div class="swiper-slide">
-                        <asp:LinkButton ID="LinkButton2" runat="server">
+                        <asp:LinkButton ID="LinkButton2" runat="server" Width="100%">
                                 <img class="swiper-slide img" src="image/XMAS-20221205.png" />
                         </asp:LinkButton>
                     </div>
                     <div class="swiper-slide">
-                        <asp:LinkButton ID="LinkButton3" runat="server">
+                        <asp:LinkButton ID="LinkButton3" runat="server" Width="100%">
                                 <img class="swiper-slide img" src="image/half.png" />
                         </asp:LinkButton>
                     </div>
                     <div class="swiper-slide">
-                        <asp:LinkButton ID="LinkButton4" runat="server">
+                        <asp:LinkButton ID="LinkButton4" runat="server" Width="100%">
                                 <img class="swiper-slide img" src="image/855.png" />
                         </asp:LinkButton>
                     </div>
