@@ -141,6 +141,7 @@
     <Content Include="menu.css" />
     <Content Include="style.css" />
     <Content Include="take out.aspx" />
+    <Content Include="test.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -183,6 +184,13 @@
     <Compile Include="take out.aspx.designer.cs">
       <DependentUpon>take out.aspx</DependentUpon>
     </Compile>
+    <Compile Include="test.aspx.cs">
+      <DependentUpon>test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="test.aspx.designer.cs">
+      <DependentUpon>test.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\dist\css\bootstrap.min.css.map" />
@@ -196,6 +204,7 @@
     <Content Include="Web.config.xiandev.Release.config">
       <DependentUpon>Web.config.xiandev.config</DependentUpon>
     </Content>
+    <Content Include="test.bak" />
     <None Include="Web.config.kuory" />
     <None Include="Web.config.Debug.kuory">
       <DependentUpon>Web.config.kuory</DependentUpon>
