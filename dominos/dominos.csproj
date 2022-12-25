@@ -122,6 +122,8 @@
     <Content Include="image\icon_footer_line.svg" />
     <Content Include="image\icon_logo_l.svg" />
     <Content Include="image\icon_logo_s.svg" />
+    <Content Include="image\Icon_notice.svg" />
+    <Content Include="image\icon_productdes.svg" />
     <Content Include="image\IDSP-20221010.jpg" />
     <Content Include="image\LBD-20181115.jpg" />
     <Content Include="image\logo.png">
@@ -155,7 +157,7 @@
     <Content Include="image\XX-20140905.jpg" />
     <Content Include="image\Y4-20191202.jpg" />
     <Content Include="image\YSEA-20181210.jpg" />
-    <Content Include="list.aspx" />
+    <Content Include="W10.aspx" />
     <Content Include="menu.aspx" />
     <Content Include="menu.css" />
     <Content Include="style.css" />
@@ -188,12 +190,12 @@
     <Compile Include="home.aspx.designer.cs">
       <DependentUpon>home.aspx</DependentUpon>
     </Compile>
-    <Compile Include="list.aspx.cs">
-      <DependentUpon>list.aspx</DependentUpon>
+    <Compile Include="W10.aspx.cs">
+      <DependentUpon>W10.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="list.aspx.designer.cs">
-      <DependentUpon>list.aspx</DependentUpon>
+    <Compile Include="W10.aspx.designer.cs">
+      <DependentUpon>W10.aspx</DependentUpon>
     </Compile>
     <Compile Include="menu.aspx.cs">
       <DependentUpon>menu.aspx</DependentUpon>
