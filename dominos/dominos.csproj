@@ -224,6 +224,7 @@
     <Content Include="assets\dist\css\bootstrap.min.css.map" />
     <Content Include="assets\dist\css\bootstrap.rtl.min.css.map" />
     <Content Include="assets\dist\js\bootstrap.bundle.min.js.map" />
+    <Content Include=".md" />
     <None Include="packages.config" />
     <Content Include="Web.config.xiandev.config" />
     <Content Include="Web.config.xiandev.Debug.config">
