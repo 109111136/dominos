@@ -23,20 +23,13 @@
                 </nav>
             </header>
             <main class="main">
-                <div id="tab">
-                    <ul>
-                        <li><a href="#tab-1">精選組合</a></li>
-                        <li><a href="#tab-2">披薩口味</a></li>
-                        <li><a href="#tab-3">披薩餅皮</a></li>
-                        <li><a href="#tab-4">副食介紹</a></li>
-                    </ul>
-                </div>
+                
 
-                <div class="row">
-                    <div class="col">
+                <div class="w10-row">
+                    <div class="w10-col">
                         <asp:Image ID="Image1" runat="server" ImageUrl="~/image/W10CC-20221116.jpg" Height="196px" Width="370px" />
                     </div>
-                    <div class="col2">
+                    <div class="w10-col2">
                         <h1>聖誕跨年A套餐【外帶】</h1>
                         <p class="card-text">美味說明:</p>
                         ．世界10大起司四喜大披薩1個<asp:DropDownList ID="crust" runat="server">
