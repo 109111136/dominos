@@ -57,11 +57,10 @@
                                             ．香烤雞條15條<br />
                                             ．蒜香起司球(原味)1份
                                         </p>
-                                        <asp:DropDownList ID="dpl_pizza" runat="server" Height="20px" Width="120px" AutoPostBack="True"></asp:DropDownList>
-                                        <asp:DropDownList ID="dpl_crust" runat="server" Height="20px" Width="120px" Visible="False"></asp:DropDownList>
+                                        
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                <asp:LinkButton ID="LinkButton1" runat="server" CssClass="btn btn-sm btn-outline-secondary" PostBackUrl="~/W10.aspx">訂購</asp:LinkButton>
                                             </div>
                                             <small class="text-muted">$999</small>
                                         </div>
@@ -85,7 +84,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$999</small>
                                         </div>
@@ -108,7 +107,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$999</small>
                                         </div>
@@ -131,7 +130,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$999</small>
                                         </div>
@@ -154,7 +153,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                         </div>
                                     </div>
@@ -176,7 +175,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                         </div>
                                     </div>
@@ -199,7 +198,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$855</small>
                                         </div>
@@ -223,7 +222,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$555</small>
                                         </div>
@@ -247,7 +246,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                         </div>
                                     </div>
@@ -275,7 +274,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$899 | 小$599</small>
@@ -300,7 +299,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$799 | 小$545</small>
@@ -325,7 +324,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$722 | 小$495</small>
@@ -350,7 +349,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$678 | 小$449</small>
@@ -374,8 +373,8 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
+                                                 
                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
-
                                             </div>
                                             <small class="text-muted">大$592 | 小$384</small>
                                         </div>
@@ -399,8 +398,8 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
+                                                 
                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
-
                                             </div>
                                             <small class="text-muted">大$592 | 小$384</small>
                                         </div>
@@ -424,7 +423,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$722 | 小$495</small>
@@ -449,7 +448,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$678 | 小$449</small>
@@ -475,7 +474,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$592 | 小$384</small>
@@ -498,7 +497,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">大$592 | 小$384</small>
                                         </div>
@@ -519,7 +518,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$770 | 小$530</small>
@@ -543,7 +542,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$703 | 小$482</small>
@@ -566,7 +565,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$703 | 小$482</small>
@@ -591,7 +590,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$703 | 小$482</small>
@@ -614,7 +613,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$592 | 小$384</small>
@@ -636,7 +635,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$656 | 小$434</small>
@@ -658,7 +657,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$656 | 小$434</small>
@@ -680,7 +679,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$656 | 小$434</small>
@@ -702,7 +701,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$575 | 小$373</small>
@@ -724,7 +723,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$575 | 小$373</small>
@@ -746,7 +745,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$592 | 小$384</small>
@@ -768,7 +767,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$656</small>
@@ -790,7 +789,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$656</small>
@@ -813,7 +812,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$656</small>
@@ -836,7 +835,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$770</small>
@@ -858,7 +857,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$770</small>
@@ -882,7 +881,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$575 | 小$373</small>
@@ -904,7 +903,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$575 | 小$373</small>
@@ -926,7 +925,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
 
                                             </div>
                                             <small class="text-muted">大$575 | 小$373</small>
@@ -1044,7 +1043,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$198</small>
                                         </div>
@@ -1063,7 +1062,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$209</small>
                                         </div>
@@ -1082,7 +1081,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$180</small>
                                         </div>
@@ -1101,7 +1100,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$229</small>
                                         </div>
@@ -1120,7 +1119,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$180</small>
                                         </div>
@@ -1139,7 +1138,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$180</small>
                                         </div>
@@ -1163,7 +1162,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$239</small>
                                         </div>
@@ -1187,7 +1186,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$469</small>
                                         </div>
@@ -1212,7 +1211,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$209</small>
                                         </div>
@@ -1231,7 +1230,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$69</small>
                                         </div>
@@ -1250,7 +1249,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$49</small>
                                         </div>
@@ -1269,7 +1268,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$49</small>
                                         </div>
@@ -1288,7 +1287,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$45</small>
                                         </div>
@@ -1307,7 +1306,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$59</small>
                                         </div>
@@ -1326,7 +1325,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$40</small>
                                         </div>
@@ -1345,7 +1344,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$40</small>
                                         </div>
@@ -1364,7 +1363,7 @@
                                         </p>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
+                                                 <button type="button" class="btn btn-sm btn-outline-secondary">訂購</button>
                                             </div>
                                             <small class="text-muted">$20</small>
                                         </div>
