@@ -135,4 +135,22 @@ span {
         white-space: nowrap;
         -webkit-overflow-scrolling: touch;
     }
+.w10-row {
+    display: flex;
+    height: 325px;
+    width: 960px;
+    padding-top: 25px;
+    padding-left: 30%;
+}
+
+.w10-col {
+    height: 325px;
+    width: 370px;
+}
+
+.w10-col2 {
+    width: 560px;
+    height: 325px;
+    padding-left: 15px;
+}
 
